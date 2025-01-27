@@ -31,7 +31,3 @@ This repository contains the solution for the **Data Science Assignment** involv
 - **NagaDeekshitha_Gollamandula_EDA.pdf**: PDF report for Task 1 (EDA).
 - **NagaDeekshitha_Gollamandula_Lookalike.pdf**: PDF report for Task 2 (Lookalike Model).
 
-## Installation
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/YourGitHubUsername/data-science-assignment-ecommerce-transactions.git
